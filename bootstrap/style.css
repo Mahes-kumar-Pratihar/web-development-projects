@@ -1,0 +1,26 @@
+.btn-danger{
+	background-color: orange;
+}
+
+.btn-danger:hover {
+	background-color: black;
+}
+
+.jumbotron {
+	color: blue;
+	font-weight: bolder;
+	font-style: italic;
+}
+
+.display-4 {
+	font-family: fantasy;
+	color: #380212;
+}
+
+.btn-lg {
+	background-color: #E0976B;
+}
+
+.btn-lg:hover {
+	background-color: red;
+}
